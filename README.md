@@ -106,7 +106,7 @@ KumoRFM-wildfire/
 ├── reports/
 │   ├── json_reports             # Generated JSON assessments
 │   └── html_reports/           # Generated HTML reports
-    └── reports/read_reports/
+└── reports/read_reports/
     ├── html_report.py           # JSON to HTML converter
     └── report_template.html     # HTML template
 ```
@@ -253,3 +253,4 @@ This project is licensed under the MIT License – see the `LICENSE` file for de
 - OpenAI: AI-powered risk assessment  
 - OpenWeatherMap: Real-time weather data  
 - California Fire & Resource Assessment Program: Geographic fire risk data
+
