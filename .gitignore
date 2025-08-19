@@ -14,9 +14,9 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-*.log
-*.csv
-*.json
-*.jsonl
-*.html
+# *.log
+# *.csv
+# *.json
+# *.jsonl
+# *.html
 
