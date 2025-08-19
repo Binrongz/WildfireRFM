@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 环境变量
+.env
+*.key
+
+# 编辑器配置
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 日志和报告
+*.log
+*.csv
+*.json
+*.jsonl
+*.html
+
+# 可选：如果你不想提交数据文件
+# data/
+# reports/
